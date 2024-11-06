@@ -33,7 +33,7 @@ exec --no-startup-id dex --autostart --environment i3
 # exec_always xautolock -time 1 -locker "i3lock -i /home/tarcisio/Pictures/1363709.png" -detectsleep -corners '++--' -cornerdelay 1 -notify 1 -notifier ~/.notifylock
 # exec_always xautolock -time 15 -locker "i3lock -c 000000" -detectsleep -corners '++--' -cornerdelay 30 -notify 30 -notifier ~/.notifylock
 exec_always xautolock -time 15 -locker "i3lock -i /home/tarcisio/.wallpapers/1363709.png" -detectsleep -corners '++--' -cornerdelay 30 -notify 30 -notifier ~/.notifylock
-exec feh --bg-scale /home/tarcisio/Pictures/1363709.png
+exec feh --bg-scale /home/tarcisio/.wallpapers/1363709.png
 exec picom -b --backend xrender
 
 
