@@ -1,0 +1,12 @@
+~/.config/nvim/
+~/.config/i3/
+~/.notifylock
+~/.tmux.conf
+~/.bash_aliases
+~/.bashrc
+~/.config/kitty/
+~/packages
+~/brightness.sh
+~/.local/share/buku/bookmarks.db
+~/.config/picom.conf
+~/.wallpapers/
