@@ -62,3 +62,7 @@ bc
 tree
 pavucontrol
 picom
+thunderbird
+python-pip
+python-virtualenv
+curl

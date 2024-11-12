@@ -75,6 +75,7 @@ bindsym $mod+d exec --no-startup-id dmenu_run
 # assign [class="slack"] 2
 
 # exec firefox
+exec thunderbird
 exec librewolf
 exec kitty
 exec copyq
